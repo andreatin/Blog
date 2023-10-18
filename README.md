@@ -1,36 +1,27 @@
-# Project 5 - *Blog*
+# *Blog*
 
-Submitted by: **Andrea Tinsley**
+Built by: **Andrea Tinsley**
 
 **Blog** is an app that retries blog post from an API and displays it on a feed 
 
 Time spent: **6** hours spent in total
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] App has a configured table view and table view call
 - [x] App populates the table view with data fetched from an API
-
-
-The following **optional** features are implemented:
-
-- [ ] App fetches posts from a different Tumblr blog
 - [x] App has a refresh control to update the table view
 
-The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-
 [Walkthrough](https://youtube.com/shorts/upgIjNxjWP4?feature=share) .
 
 ## Notes
 
-Had difficulty getting the API pinged again to generate new posts when reloaded
+API takes a bit to reload new posts, but the functionality to call new posts is present
 
 ## License
 
